@@ -1,6 +1,6 @@
 # Landstingskoncerner 2018 | Journalism++ Stockholm
 
-*Landstingskoncerner 2018* är den mest omfattande listan över landstingens ägande som finns publikt på ett och samma ställe. Totalt har vi fått fram 45 bolag och stiftelser.
+*Landstingskoncerner 2018* är den mest omfattande listan över landstingens ägande som finns publikt på ett och samma ställe. Totalt har vi fått fram **91** bolag och stiftelser.
 
 Vanliga frågor:
 
